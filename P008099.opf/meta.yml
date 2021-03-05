@@ -1,16 +1,17 @@
-id: opecha:P008099
+id: P008099
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1016290
   title: སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མེ།
-  volume:
+  author: ''
+  volumes:
     2e8420d5147c400e9cc5614a929fa869:
       image_group_id: I00JW501195
       title: Volume 1 of spyod pa bsdus pa'i sgron me the caryamelapakapradipa of
         aryadeva
       volume_number: 1
       total_pages: 452
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མེ།
   author: ''
